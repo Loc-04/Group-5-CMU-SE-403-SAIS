@@ -1,0 +1,4 @@
+Dương Tấn Lộc 's questions :
+How will system use ping/echo to detect ride-sharing service faults in real-time?
+How will timestamps help your system quickly detect faults in the ride-sharing process?
+How can voting or condition monitoring be used to check the status of key system components and detect failures early in the ride-sharing system?
