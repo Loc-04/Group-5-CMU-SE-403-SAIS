@@ -6,3 +6,7 @@ Truong Tan Loc:
 What active redundancy methods will ensure quick recovery from faults?
 How will the system handle failures with exception handling or rollback?
 How will shadow copies or state sync help recover after a fault?
+Do Huu Dung:
+What strategies will prevent faults using exception prevention and competence increase?
+How will transactions ensure successful bookings and payments?
+How will predictive models help prevent issues in ride-sharing?
