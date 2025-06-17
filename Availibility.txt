@@ -1,0 +1,4 @@
+Truong Tan Loc:
+What active redundancy methods will ensure quick recovery from faults?
+How will the system handle failures with exception handling or rollback?
+How will shadow copies or state sync help recover after a fault?
